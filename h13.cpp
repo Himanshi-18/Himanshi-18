@@ -13,7 +13,6 @@ class myClass {
     string first_name;
     string last_name;
     int standard;
-    string all;
 };
 
 int main() {
