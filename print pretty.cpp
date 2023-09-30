@@ -1,3 +1,4 @@
+//print pretty
 #include <iostream>
 #include <iomanip> 
 using namespace std;
