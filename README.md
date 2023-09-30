@@ -1,4 +1,5 @@
 ### Hi there 👋
+C++ Hacker Rank easy part solutions.
 <!--
 **Himanshi-18/Himanshi-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
